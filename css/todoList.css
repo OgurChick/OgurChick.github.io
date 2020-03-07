@@ -4,11 +4,11 @@
     min-height: 90%;
     display: flex;
     justify-content: center;
-    
+
 }
 .menuList{
     width: 80%;
-    height: 150px; 
+    height: 150px;
     position: fixed;
     bottom: 300px;
     display: flex;
@@ -23,7 +23,7 @@
     font-size: 5rem;
     padding-left: 15px;
    border-right-color: white;
-    
+
 }
 #btn-add{
     width: 20%;
@@ -33,7 +33,7 @@
     justify-content: center;
     align-items: center;
     border: 1px solid black;
-    border-radius: 0 15px 15px 0;    
+    border-radius: 0 15px 15px 0;
 }
 #outList{
     width: 90%;
@@ -44,22 +44,24 @@
     display: flex;
     position: relative;
     padding: 10px;
-    font-size:150px;
+    font-size:50px;
     font-family: 'Neucha', cursive;
+    align-items: center;
+    
 }
 .valueOut{
-    width: 90%;
+    width: 80%;
     word-break: break-all;
 }
 .editBtn{
       width: auto;
     height: auto;
     position:absolute;
-    right: 100px;
+    right: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+
 }
 .deleteBtn{
     width: 20px;
