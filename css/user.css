@@ -16,7 +16,7 @@
     transform: translate(-50%);
 }
 #inUserName{
-    width: 50%;
+    width: 80%;
     height: 100px;
     font-size:4rem ;
     margin-top:50px ;
@@ -42,7 +42,7 @@
     cursor: pointer;
 }
 #inUserColor{
-       width: 50%;
+       width: 80%;
     height: 100px;
     font-size:4rem ;
     margin-top:50px ;
