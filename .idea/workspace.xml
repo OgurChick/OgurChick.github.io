@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e410db1-a4c7-4ec2-80e4-3dfa49a34d32" name="Default Changelist" comment="" />
+    <list default="true" id="295af8d3-a3a2-4e80-bdcf-c49907393128" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,29 +13,26 @@
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lerning JS" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
-  <component name="ProjectId" id="1XVOixFga5YfgKGGxe10NfAmMR1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1V43GFsZ3rCTgu4ZBW2hw0iQxnP" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sitev" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,45 +46,51 @@
       </list>
     </option>
   </component>
-  <component name="ServiceViewManager">
-    <option name="showServicesTree" value="false" />
-  </component>
-  <component name="SvnConfiguration" cleanupOnStartRun="true">
-    <configuration>C:\Users\Александр\AppData\Roaming\Subversion</configuration>
-    <supportedVersion>125</supportedVersion>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e410db1-a4c7-4ec2-80e4-3dfa49a34d32" name="Default Changelist" comment="" />
-      <created>1581127926019</created>
+      <changelist id="295af8d3-a3a2-4e80-bdcf-c49907393128" name="Default Changelist" comment="" />
+      <created>1576498442957</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581127926019</updated>
-      <workItem from="1581127928199" duration="315000" />
-      <workItem from="1581204897392" duration="261000" />
-      <workItem from="1581205210766" duration="607000" />
-      <workItem from="1581206171264" duration="5080000" />
-      <workItem from="1581327955470" duration="8653000" />
-      <workItem from="1581344763483" duration="3328000" />
-      <workItem from="1581604197189" duration="618000" />
-      <workItem from="1582368693609" duration="4973000" />
-      <workItem from="1582440223213" duration="4613000" />
-      <workItem from="1582493386951" duration="601000" />
-      <workItem from="1582529716960" duration="4014000" />
-      <workItem from="1582797540526" duration="2655000" />
-      <workItem from="1582820573065" duration="1982000" />
-      <workItem from="1582881554937" duration="1464000" />
-      <workItem from="1582971310278" duration="1991000" />
-      <workItem from="1583006937148" duration="1267000" />
-      <workItem from="1583086973390" duration="6965000" />
-      <workItem from="1583141153485" duration="1044000" />
-      <workItem from="1583158730068" duration="5917000" />
-      <workItem from="1583245649433" duration="2712000" />
-      <workItem from="1583249003467" duration="3756000" />
-      <workItem from="1583317370897" duration="3841000" />
-      <workItem from="1583433554057" duration="2885000" />
-      <workItem from="1583490405910" duration="3029000" />
-      <workItem from="1583504071553" duration="1932000" />
+      <updated>1576498442957</updated>
+      <workItem from="1576498448594" duration="2152000" />
+      <workItem from="1576538466176" duration="339000" />
+      <workItem from="1576684886625" duration="6351000" />
+      <workItem from="1576838088391" duration="4333000" />
+      <workItem from="1576875461991" duration="2004000" />
+      <workItem from="1576938427016" duration="9757000" />
+      <workItem from="1577050679263" duration="6285000" />
+      <workItem from="1577342543619" duration="7504000" />
+      <workItem from="1577621723107" duration="39000" />
+      <workItem from="1578136166326" duration="733000" />
+      <workItem from="1578159841681" duration="4306000" />
+      <workItem from="1578566877521" duration="2123000" />
+      <workItem from="1578780256263" duration="6451000" />
+      <workItem from="1579103678024" duration="4799000" />
+      <workItem from="1579178516438" duration="5234000" />
+      <workItem from="1579187338575" duration="3325000" />
+      <workItem from="1579371991466" duration="143000" />
+      <workItem from="1579517022685" duration="11603000" />
+      <workItem from="1579693442238" duration="1452000" />
+      <workItem from="1579899437814" duration="2473000" />
+      <workItem from="1580070062952" duration="5186000" />
+      <workItem from="1580084483119" duration="284000" />
+      <workItem from="1580160712820" duration="1100000" />
+      <workItem from="1580168513583" duration="2110000" />
+      <workItem from="1580383288607" duration="2611000" />
+      <workItem from="1580506517734" duration="3066000" />
+      <workItem from="1580730989275" duration="2608000" />
+      <workItem from="1580904025246" duration="1899000" />
+      <workItem from="1581121480410" duration="5891000" />
+      <workItem from="1581606182125" duration="2577000" />
+      <workItem from="1582018045678" duration="2558000" />
+      <workItem from="1582278296429" duration="598000" />
+      <workItem from="1582282422483" duration="544000" />
+      <workItem from="1582312563621" duration="757000" />
+      <workItem from="1582368669727" duration="20000" />
     </task>
     <servers />
   </component>
