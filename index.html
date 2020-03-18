@@ -1,24 +1,67 @@
-<!DOCTYPE html>
+#<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
-    <link href="style.css" type="text/css" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/header.css">
+  <link href="https://fonts.googleapis.com/css?family=Cuprum|IBM+Plex+Sans|Open+Sans|Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-    <title></title>
+    <title>Document</title>
 </head>
-
 <body>
-<div class="todoList"></div>
-<div id="body-todo">
-<input type="text" id="input">    
-<input type="button" id="add" value="add">        
-</div>
+   <header>
+       <nav class="nav-menu">
+          <div class="menu">
+           <div class="menu-btn" onclick ="scrollElem(1)"><a href="#main"><i class="fas fa-home"></i></a></div>
+           <div class="menu-btn" onclick ="scrollElem(2)"><a href="#portfolio"><i class="fas fa-briefcase"></i></a></div>
+           <div class="menu-btn" onclick ="scrollElem(3)"><a href="#"><i class="fas fa-address-card"></i></a></div>
+           </div>
+       </nav>
+   </header>
+      <main>
+         <div id="main">
+          <div class="content">
+             <div class="link">
+             <div class="link-a">
+             <a href="#"><i class="fab fa-facebook-f"></i></a>
+             <a href="#"><i class="fab fa-telegram-plane"></i></a>
+             <a href="#"><i class="fab fa-vk"></i></a>
+             <a href="#"><i class="fab fa-viber"></i></a>
+             <a href="#"><i class="fab fa-instagram"></i></a>
+             </div>
+         </div>
+              <div class="content-header">
+                <p class="par">Я Александр Киндра</p>
+                <p class="par">Я начнающий веб-разработчик в области фронтенда</p>
+          </div>
+          </div>
+          </div>
+          
+        <div id="portfolio">
+            <div class="works">
+                <div class="work"></div>
+                <div class="work"></div>
+                <div class="work"></div>
+                
+                <div class="work"></div>
+                <div class="work"></div>
+                <div class="work"></div>
+                
+                <div class="work"></div>
+                <div class="work"></div>
+                <div class="work"></div>
+            </div>            
+            
+            
+            
+            
+            
+        </div>
 
-<script src="test2.js"></script>
-<script src="learning.js"></script>
+      </main>
+                
+                    
+    <script src="js/main.js"></script>
 </body>
 </html>
